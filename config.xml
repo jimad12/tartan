@@ -1,7 +1,7 @@
 <? xml Version="1.0" encoding="UTF-8"?>
 <widget xmlns ="http://www.w3c.org/ns/widgets"
   xmlns:gap = "http://phonepage.com/ns/1.0"
-  id = ""
+  id = "com.hfmw.tartanhunt"
   version = "1.0.0">
   <name>James web Wizard</name>
   <description>A companion application for the Scottish Celebration:
